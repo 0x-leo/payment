@@ -52,7 +52,7 @@ export default function App() {
             The complete MEV Bot package (By <a href="#">Deltabots Foundation</a>)
           </h1>
           <br/>
-          <h1 class="f">Price: $5,000 (3.06 ETH)</h1>
+          <h1 class="f">Price: $3,000 (1.98 ETH)</h1>
           <br/>
           <span>This program is able to navigate the complexities of smart contract interactions and exploit inefficiencies in the market, allowing for a consistent generation of profit. Additionally, our bot is equipped with advanced risk management features, which include customizable stop loss and profit taking options, to ensure optimal performance and protection of your capital.</span>
 <br/>
@@ -73,7 +73,7 @@ export default function App() {
                 name="ether"
                 type="text"
                 className="input input-bordered block w-full focus:ring focus:outline-none"
-                value="3.06"
+                value="1.98"
               />
             </div>
           </div>
